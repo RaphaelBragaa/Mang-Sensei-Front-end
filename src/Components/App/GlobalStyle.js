@@ -139,6 +139,7 @@ const GlobalStyle = createGlobalStyle`
     font-weight: 400;
 	  background-color: #141414;
     font-family:'Archivo', Arial;
+    color:white;
   }
 
   * {
